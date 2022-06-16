@@ -1,8 +1,8 @@
 # discount_bitrix
 
-пример использования
+# пример использования
 
-<?
+
 use Bitrix\Main\Mail\Event;
 use Bitrix\Sale;
 Bitrix\Main\Loader::includeModule("catalog");
